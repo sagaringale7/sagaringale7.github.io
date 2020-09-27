@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Anish C"
+title                    : "Sagar Ingale"
 title_separator          : "-"
-name                     : "Anish Chakraborty"
-description              : "Thoughts while working on software and data."
+name                     : "Sagar Ingale"
+description              : "A bigdata Developer with strong Technical Knowledge"
 url                      : https://sagaringale7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : sagaringale7/anish749.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
