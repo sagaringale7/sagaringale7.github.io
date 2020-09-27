@@ -77,16 +77,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anish Chakraborty"
+  name             : "Sagar Ingale"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Engineer"
-  location         : "Stockholm, Sweden"
-  email            : "anish749@gmail.com"
-  github           : "anish749"
+  bio              : "BigData Engineer"
+  location         : "Pune, India"
+  email            : "sagaringale7794@gmail.com"
+  github           : "sagaringale7"
   linkedin         : "anishchakraborty/"
   facebook         : "anish.chakraborty"
   instagram        : "anishchakraborty/"
-  youtube          : "https://www.youtube.com/c/visualkrafts" # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/" # "https://youtube.com/c/MichaelRoseDesign"
   twitter          : "photoganish"
   stackoverflow    : "4982581/anish" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   uri              :
