@@ -13,7 +13,7 @@ name                     : "Sagar Ingale"
 description              : "A bigdata Developer with strong Technical Knowledge"
 url                      : https://sagaringale7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : sagaringale7/anish749.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : sagaringale7/sagaringale7.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -83,12 +83,12 @@ author:
   location         : "Pune, India"
   email            : "sagaringale7794@gmail.com"
   github           : "sagaringale7"
-  linkedin         : "anishchakraborty/"
-  facebook         : "anish.chakraborty"
-  instagram        : "anishchakraborty/"
+  linkedin         : "sagar-ingale/"
+  facebook         : "sagaringale520"
+  instagram        : "sagaringale/"
   youtube          : "https://www.youtube.com/" # "https://youtube.com/c/MichaelRoseDesign"
-  twitter          : "photoganish"
-  stackoverflow    : "4982581/anish" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  twitter          : "mytwitter"
+  stackoverflow    : "123/test" # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   uri              :
   bitbucket        :
   codepen          :
