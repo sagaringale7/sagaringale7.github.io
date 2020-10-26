@@ -18,4 +18,4 @@ For online sessions I work through [CodeMentor](https://www.codementor.io/anish7
 
 Other than coding I also maintain a deep interest in films and photography as a hobby. Do have a look at my other blog at [Visual Krafts](https://visualkrafts.wordpress.com/) though it is a bit old and not updated frequently!
 
-For a detailed CV please have a look at my [LinkedIn](https://www.linkedin.com/in/anishchakraborty) profile.
+For a detailed CV please have a look at my [LinkedIn](https://www.linkedin.com/in/sagar-ingale) profile.
