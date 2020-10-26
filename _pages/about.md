@@ -13,9 +13,4 @@ I started coding back in high school and have since maintained a deep interest i
 
 I am currently working full time as a Bigdata Developer at Amdocs pvt ltd, based out of Pune,India .
 
-I also mentor others and provide help in solving problems in the world of Data.
-For online sessions I work through [CodeMentor](https://www.codementor.io/anish749)  [![Book session on Codementor](https://cdn.codementor.io/badges/book_session_github.svg)](https://www.codementor.io/anish749?utm_source=github&utm_medium=button&utm_term=anish749&utm_campaign=github)
-
-Other than coding I also maintain a deep interest in films and photography as a hobby. Do have a look at my other blog at [Visual Krafts](https://visualkrafts.wordpress.com/) though it is a bit old and not updated frequently!
-
 For a detailed CV please have a look at my [LinkedIn](https://www.linkedin.com/in/sagar-ingale) profile.
