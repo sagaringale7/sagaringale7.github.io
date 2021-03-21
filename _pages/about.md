@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-Hello, I am Sagar.
+Hello, I am Sagar Ingale.
 
 I am a Bigdata Developer , and I love data, which gives me the nice hat of a Data Engineer.
 
